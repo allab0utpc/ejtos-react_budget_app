@@ -64,7 +64,7 @@ const AllocationForm = (props) => {
                 <input
                     required='required'
                     type='number'
-                    id='cost'AllocationForm.js
+                    id='cost'
                     value={cost}
                     onChange={(event) => setCost(event.target.value)}>
                 </input>

@@ -80,5 +80,3 @@ const AllocationForm = (props) => {
 };
 
 export default AllocationForm;
-
-AllocationForm.js
